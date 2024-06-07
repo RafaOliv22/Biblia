@@ -18,7 +18,7 @@ const MyTheme = {
     border: '#E0E0E0', 
   },
 };
-//terste
+
 export default function App() {
   return (
     <NavigationContainer theme={MyTheme}>
